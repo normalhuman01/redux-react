@@ -1,1 +1,1 @@
-### Curso React + Redux
+### React + Redux
