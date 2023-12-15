@@ -1,8 +1,8 @@
 import Card from './Card';
 
-const Sorteio = props => {
+const Dibujar = props => {
     return (
-        <Card title="Sorteio de um Número" purple>
+        <Card title="Dibujar un numero" purple>
             <div>
                 <span>
                     <span>Resultado: </span>
@@ -13,4 +13,4 @@ const Sorteio = props => {
     )
 }
 
-export default Sorteio;
+export default Dibujar;

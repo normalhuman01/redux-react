@@ -1,6 +1,6 @@
-[Comandos](https://github.com/lucasrmagalhaes/redux-react/blob/main/redux-simples/COMANDOS.md)
+[Comandos](https://github.com/normalhuman01/redux-react/blob/main/redux-simples/COMANDOS.md)
 
-**Material Icon Theme - Adicionando ícones para outros diretórios.**
+**Tema de icono de material: agregar iconos a otros directorios.**
 ```
 "material-icon-theme.folders.associations": {
     "widgets": "components",

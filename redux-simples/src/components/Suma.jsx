@@ -1,8 +1,8 @@
 import Card from './Card';
 
-const Soma = props => {
+const Suma = props => {
     return (
-        <Card title="Soma dos Números" blue>
+        <Card title="Suma de números" blue>
             <div>
                 <span>
                     <span>Resultado: </span>
